@@ -13,8 +13,8 @@ status-website:
   baseUrl: /jadrolinija-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Jadrolinija-Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Track uptime of Jadrolinija website"
+  introMessage: "Status page for Jadrolinija website, which is used for checking the schedule and buying online tickets for ferries in Croatia. This website usually doesn't work when you need it the most. This is an attempt to get the data about uptime and see in which periods the website is usually down."
   navbar:
     - title: Status
       href: /
