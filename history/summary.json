@@ -6,8 +6,8 @@
     "slug": "jadrolinija",
     "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "87.11%",
-    "uptimeWeek": "95.08%",
+    "uptimeDay": "86.77%",
+    "uptimeWeek": "95.03%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "98.86%",
     "time": 1318,
@@ -16,6 +16,7 @@
     "timeMonth": 1277,
     "timeYear": 1318,
     "dailyMinutesDown": {
+      "2026-04-13": 5,
       "2026-04-12": 185,
       "2026-04-11": 116,
       "2026-04-10": 113,
