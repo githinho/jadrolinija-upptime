@@ -4,19 +4,18 @@
     "url": "https://www.jadrolinija.hr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jadrolinija.hr.ico",
     "slug": "jadrolinija",
-    "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.84%",
-    "time": 1277,
-    "timeDay": 778,
-    "timeWeek": 1049,
-    "timeMonth": 1097,
-    "timeYear": 1277,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "98.81%",
+    "time": 1278,
+    "timeDay": 1329,
+    "timeWeek": 1132,
+    "timeMonth": 1115,
+    "timeYear": 1278,
     "dailyMinutesDown": {
-      "2026-03-29": 18,
       "2026-03-30": 40,
       "2026-04-08": 40,
       "2026-04-09": 42,
@@ -50,7 +49,8 @@
       "2026-05-23": 50,
       "2026-05-26": 65,
       "2026-05-27": 25,
-      "2026-05-30": 30
+      "2026-05-30": 30,
+      "2026-06-01": 101
     }
   }
 ]
